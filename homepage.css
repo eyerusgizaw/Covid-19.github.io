@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: poppins;
+    background-image: url(https://cdn.clinicallab.com/assets/articleNo/24501/aImg/45388/coronavirus-particles-on-white-background-m.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.py-5y{
+    margin-top: 9rem;
+}
+.p-container{
+    background-color: rgb(110, 110, 110);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    padding: 1rem 3rem;
+    border-radius: 1rem;
+}
